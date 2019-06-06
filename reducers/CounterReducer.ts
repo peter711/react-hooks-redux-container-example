@@ -77,8 +77,6 @@ class HookDiagnosticHelper {
     } else {
       this.values.add(value);
     }
-
-    // this.display();
   }
 
   public display() {
